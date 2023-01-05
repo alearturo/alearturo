@@ -8,4 +8,5 @@
 - 💬 Ask me about  SQL, Tableau,R and Data Marketing
 - 📫 How to reach me: linkedin.com/in/alearturo/
 - 😄 Pronouns: He/Him
-- ⚡ Hobbies and Interests: Watch Series, Play Guitar and Piano, Solve Puzzles, Meet people from around the world, Learn new languages.
+-  🗣️ Speak: Portuguese (Native), Spanish(Advanced), English(Fluent) and French(Intermediate)
+- ⚡ Hobbies e interesses: Assistir séries, tocar violão e piano, resolver quebra-cabeças, conhecer pessoas de todo o mundo, aprender novos idiomas.
