@@ -12,7 +12,7 @@
 - 📫 How to reach me: linkedin.com/in/alearturo/
 - 😄 Pronouns: He/Him
 -  🗣️ Speak: Portuguese (Native), Spanish(Advanced), English(Fluent) and French(Intermediate)
-- ⚡ Hobbies e interesses: Assistir séries, tocar violão e piano, resolver quebra-cabeças, conhecer pessoas de todo o mundo, aprender novos idiomas.
+- ⚡ Hobbies and Interests: Learning new languages, Playing guitar and piano, Solving puzzles, Watching series.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
