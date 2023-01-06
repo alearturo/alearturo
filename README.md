@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alearturo/alearturo/raw/main/assets/ezgif.com-gif-maker2.gif"
+  <img src="https://github.com/alearturo/alearturo/raw/main/assets/head_progit_gif.gif"
 </p>
 
 
