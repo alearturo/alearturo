@@ -2,7 +2,7 @@
   <img src="https://github.com/alearturo/alearturo/raw/main/assets/head_progithub_gif.gif"
 </p>
 
-<h2 align="center">A data scientist. Passionate for entrepreneurship, technology, marketing and share knowledge.</h2>
+<h2 align="center">A data analyst passionate for entrepreneurship, technology, marketing and share knowledge.</h2>
 
 - 🔭 I’m currently working on  Digital Marketing and Data Analytic
 - 🌱 I’m currently learning Python, Java and Julia
