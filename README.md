@@ -2,10 +2,10 @@
   <img src="https://github.com/alearturo/alearturo/raw/main/assets/head_progithub_gif.gif"
 </p>
 
-<h2 align="center">A data analyst passionate for entrepreneurship, technology, marketing and share knowledge.</h2>
+<h1 align="center">A data analyst passionate for entrepreneurship, technology, marketing and share knowledge.</h1>
 
 - 🔭 I’m currently working with Digital Marketing and Data Analytic
-- 🌱 I’m currently learning Python, Java and Julia
+- 🌱 I’m currently learning Python, Javascript and Julia
 - 👯 I’m looking to collaborate on  Business Inteligence, Data Science, IA.
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about  SQL, Tableau,R and Data Marketing
