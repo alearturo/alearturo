@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/alearturo/alearturo/raw/main/assets/header-github.gif" alt="Hi, I'm Alejandro>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Alejandro Arturo</h1>
 <h3 align="center">A data scientist. Passionate for entrepreneurship, technology, marketing and share knowledge.</h3>
