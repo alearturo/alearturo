@@ -5,14 +5,14 @@
 <h1 align="center">A data analyst passionate for entrepreneurship, technology, marketing and share knowledge.</h1>
 
 - 🔭 I’m currently working with Digital Marketing and Data Analytic
-- 🌱 I’m currently learning Python, Javascript and Julia
+- 🌱 I’m currently learning Python and SQL
 - 👯 I’m looking to collaborate on  Business Inteligence, Data Science, IA.
 - 🤔 I’m looking for help with Python
-- 💬 Ask me about  SQL, Tableau,R and Data Marketing
+- 💬 Ask me about  SQL, Tableau, Python and Data Marketing
 - 📫 How to reach me: linkedin.com/in/alearturo/
 - 😄 Pronouns: He/Him
 -  🗣️ Speak: Portuguese (Native), Spanish(Advanced), English(Fluent) and French(Intermediate)
-- ⚡ Hobbies and Interests: Learning new languages, Playing guitar and piano, Solving puzzles, Watching series.
+- ⚡ Hobbies and Interests: Learning new languages, Playing guitar and piano, Chess, and Play Dota 2.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
